@@ -1,0 +1,16 @@
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\SoftwareTeamXiangQi.exe
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\SoftwareTeamXiangQi.deps.json
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\SoftwareTeamXiangQi.runtimeconfig.json
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\SoftwareTeamXiangQi.runtimeconfig.dev.json
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\SoftwareTeamXiangQi.dll
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\ref\SoftwareTeamXiangQi.dll
+F:\Git\SoftwareTeamXiangQi\bin\Debug\net5.0\SoftwareTeamXiangQi.pdb
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.csproj.AssemblyReference.cache
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.AssemblyInfoInputs.cache
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.AssemblyInfo.cs
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.csproj.CoreCompileInputs.cache
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.dll
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\ref\SoftwareTeamXiangQi.dll
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.pdb
+F:\Git\SoftwareTeamXiangQi\obj\Debug\net5.0\SoftwareTeamXiangQi.genruntimeconfig.cache
